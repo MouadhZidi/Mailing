@@ -1,0 +1,35 @@
+<html>
+<body class="body" style="margin: 0; padding: 0; background-color: blue;" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+<table width="100%"  cellspacing="0" cellpadding="0">
+<tr>
+<table width="600px" align="center" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#FDFCFC" align="center">
+<img src='cid:cid' />
+</td>
+</tr>
+<tr>
+<td style="padding-top:10px;" bgcolor="#FDFCFC">
+<div align="left" style="padding-left:10px;display:inline-block;">
+<div style="padding-left:10px;display:inline-block;"><h4>Subject : </h4></div>
+<div style="padding-left:10px;display:inline-block;color:#1E56A3;"><h4>${subject}.</h4></div>
+</div>
+<div align="left" style="padding-left:10px;"><h4>Bonjour,</h4></div>
+<div align="left" style="padding-left:20px;padding-right:20px;">
+<p>${message}<p>
+</div>
+<div align="left" style="padding-left:10px;"><h4>Cordialement.</h4></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FDFCFC">
+<div align="center" style="padding-top:1px;padding-bottom:1px;color:#1E56A3;">
+<p><b><h5>Arab Soft : Rue 8368 - Bloc A - Espace El Aziz Lot Ennassim-Montplaisir 1073 Tunis-Tunisie</h5></b></p>
+</div>
+</td>
+</tr>
+</tbody>
+</tr>
+</table>
+</body>
+</html>
